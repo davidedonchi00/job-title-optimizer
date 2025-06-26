@@ -1,2 +1,1 @@
-# Job Title Optimizer
-Ottimizza i job title per profili blue collar con suggerimenti basati su Google Trends, Indeed e LinkedIn.
+# Job Title Optimizer\nOttimizza i job title per profili blue collar con suggerimenti da Google Trends, Indeed e LinkedIn.\n
